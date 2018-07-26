@@ -1,4 +1,7 @@
 # Deep Face Recognition with Caffe Implementation
+++++++++++++++++++++++++++++
+centen_loss used by face regnize
+++++++++++++++++++++++++++++
 
 This branch is developed for deep face recognition, the related paper is as follows.
     
